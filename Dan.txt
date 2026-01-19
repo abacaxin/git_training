@@ -1,5 +1,5 @@
-Olá, eu sou o Dan e estou aprendendo a usar o git da maneira correta 
+Olá! Eu sou o Dan e estou aprendendo a usar o git da maneira correta 
 
 Modificação 2
 
-Vixi
+Vixi	
